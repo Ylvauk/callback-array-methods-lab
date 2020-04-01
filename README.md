@@ -18,7 +18,7 @@
 
 1. In your `sei/labs` folder, create an `callback-array-methods.js` file and do your work in that file. 
 2. Also create an `index.html` and link the `callback-array-methods.js` file in a `script` tag. 
-3. Launch your `index.html` file with Live Server and use `cmd` + `option` + `j` to open Dev Tools and see you Console. 
+3. Launch your `index.html` file with Live Server and use `cmd` + `option` + `j` to open Dev Tools and see your Console. 
 
 ---
 
