@@ -133,7 +133,7 @@ Great! We filtered out the non-capitalized minion, but while we know it was kevi
 
 Aha! Now that Gru's found out which minion escaped him, he wants to find out what index in the original array he was at so he can fix him up later.
 
--   Using `findIndex`, find what index kevin is in the original `capitalizedMinions` array
+-   Using `findIndex`, find what index the first kevin is in the original `capitalizedMinions` array
 
     -   <details><summary><strong>Expected output:</strong></summary><p>
 
@@ -143,7 +143,8 @@ Aha! Now that Gru's found out which minion escaped him, he wants to find out wha
 
          </p></details>
 
--   Now that he's found him, he can just use `capitalizedMinions[1]` to select kevin and capitalize his name.
+-   Now that he's found him, he can just use `capitalizedMinions[1]` to select kevin and capitalize his name. 
+-   Delete the second occurence of 'kevin'. 
 -   Once that's done, check again using `every` whether or not `capitalizedMinions` is all capitalized correctly
 
     -   <details><summary><strong>Example output:</strong></summary><p>
